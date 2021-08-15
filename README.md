@@ -737,6 +737,7 @@ SolnSquareVerifier =
       "stateMutability": "nonpayable",
       "type": "function"
     }
+   ]
   ```
     SquareVerifier abi = 
   ```
