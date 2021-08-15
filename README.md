@@ -17,7 +17,7 @@ truffle compile
 Start ganache-cli in a seperate terminal within the eth-contracts directory. Migrate the contracts and run the test files.
 
 ```
-ganache-cli
+ganache-cli -m "faculty gloom health bachelor another goose region patch silver reduce rifle erase"
 truffle migrate --reset
 truffle test ./test/TestERC721Mintable.js
 truffle test ./test/TestSquareVerifier.js
