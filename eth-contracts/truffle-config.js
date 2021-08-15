@@ -22,7 +22,7 @@
  const endpoint = "https://rinkeby.infura.io/v3/97814fdd993b4511aae0bae211c32749";
 //
  const fs = require('fs');
- const mnemonic = fs.readFileSync(".secret").toString().trim();
+ const mnemonic = "faculty gloom health bachelor another goose region patch silver reduce rifle erase";
 
 module.exports = {
   /**
