@@ -2,8 +2,6 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
-how to test code,
-
 ## Install Packages
 
 To install, download or clone the repo, then:
