@@ -4,10 +4,6 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 ## Install Packages
 
-To install, download or clone the repo, then:
-
-`npm install`
-
 Move to contracts directory, install dependencies and compile contracts:
 
 ```
