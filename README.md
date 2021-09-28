@@ -798,3 +798,9 @@ marketplace link = https://testnets.opensea.io/collection/house-token-v4-2
 * [Docker](https://docs.docker.com/install/)
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
 
+## Contact Me!
+Author: Ethan Moore  
+Email: eldm2350@protonmail.com  
+Github: https://github.com/eldm-ethanmoore  
+LinkedIn: https://www.linkedin.com/in/ethan-moore-a7106121a/  
+Website: https://eldm.net
